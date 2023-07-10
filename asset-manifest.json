@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/musicwebsite/static/css/main.fd9e1a90.css",
+    "main.js": "/musicwebsite/static/js/main.9b6925d3.js",
+    "static/media/claire2.png": "/musicwebsite/static/media/claire2.23841bfbe7a1008bf7ad.png",
+    "static/media/writing.png": "/musicwebsite/static/media/writing.00192fb2b8f59da62508.png",
+    "static/media/proposal.png": "/musicwebsite/static/media/proposal.afe367502a5ad538ef45.png",
+    "static/media/birthday.png": "/musicwebsite/static/media/birthday.3d2edc5d4761961a84e1.png",
+    "static/media/poetry.png": "/musicwebsite/static/media/poetry.f5b541baa280e810620d.png",
+    "static/media/wedding.png": "/musicwebsite/static/media/wedding.3c85c57639522b8eb13e.png",
+    "index.html": "/musicwebsite/index.html",
+    "main.fd9e1a90.css.map": "/musicwebsite/static/css/main.fd9e1a90.css.map",
+    "main.9b6925d3.js.map": "/musicwebsite/static/js/main.9b6925d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd9e1a90.css",
+    "static/js/main.9b6925d3.js"
+  ]
+}
